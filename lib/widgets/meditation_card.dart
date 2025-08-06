@@ -57,13 +57,13 @@ class _HoverCardState extends State<_HoverCard> {
           duration: const Duration(milliseconds: 200),
           decoration: BoxDecoration(
             borderRadius: BorderRadius.circular(25),
-            color: Colors.white,
+            color: _isHovered ? Colors.deepPurple.withOpacity(0.08) : Colors.white,
             boxShadow: [
               BoxShadow(
-                color: _isHovered ? Colors.deepPurple.withOpacity(0.25) : Colors.deepPurple.withOpacity(0.1),
-                blurRadius: _isHovered ? 16 : 8,
-                spreadRadius: _isHovered ? 4 : 2,
-                offset: const Offset(0, 4),
+                color: _isHovered ? Colors.deepPurple.withOpacity(0.45) : Colors.deepPurple.withOpacity(0.12),
+                blurRadius: _isHovered ? 32 : 10,
+                spreadRadius: _isHovered ? 8 : 2,
+                offset: const Offset(0, 8),
               ),
             ],
           ),
