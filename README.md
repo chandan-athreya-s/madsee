@@ -33,3 +33,5 @@ $ flutter packages get
 # Run the app
 $ flutter run
 ```
+A project by 
+Chandan Athreya S and B M Madhuchandra
