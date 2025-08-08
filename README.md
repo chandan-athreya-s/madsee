@@ -4,7 +4,7 @@ An app that make you calm, relief, relax, and focus 🧘
 
 ### Screens
 
-<img src="assets/images/demo.png" />
+
 
 **Meditation App** is a cross-platform application designed to assist users in improving their mental well-being. The app provides a variety of calming music and relaxing experiences with a clean and intuitive UI. Whether you want to meditate, relax, focus, study, or sleep, this app has a mode for you.
 
@@ -77,7 +77,7 @@ flutter run -d windows
 - [Chandan Athreya S](https://github.com/chandan-athreya-s)
 - B M Madhuchandra
 
-**Original inspiration and some assets by [Phat Panhareach (Re4ch-Jay)](https://github.com/Re4ch-Jay/)**
+
 
 ---
 
